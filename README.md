@@ -14,4 +14,4 @@
 - Refer to the custommaskrcnn.pynb notebook to see how the model was trained on 2 custom classes 
 
 # Using Model Trained on Custom Dataset
-- Sample outputs available in the output folder
+- Sample outputs available in the folder
